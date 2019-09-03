@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nalin
+ *
+ */
+module JavaClass {
+}
